@@ -3,8 +3,8 @@ const chalk = require('chalk');
 
 
 // Other
-global.link = 'https://chat.whatsapp.com/FS85tJzqzfs9O0sW7YsZQL'
-global.linkGroup = 'https://chat.whatsapp.com/FS85tJzqzfs9O0sW7YsZQL'
+global.link = 'tiktok.com/@lucky0fficial47'
+global.linkGroup = 'tiktok.com/@lucky0fficial47'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = "␊᪾⃕⛦ ❤️ 𝕷↻ℭҠꌩ 😘";
